@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -7,3 +8,15 @@
 /build
 /captures
 .externalNativeBuild
+||||||| merged common ancestors
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+>>>>>>> 1e1a010b6948cdd958332d458a6d1d5066fa2e2f
